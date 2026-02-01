@@ -8,7 +8,7 @@ The application allows users to vote between two options. Votes are processed us
 
 # 🏗️ Architecture
 
-![Kubernetes Voting Application Architecture](images/architecture-diagram.png.png)
+![Kubernetes Voting Application Architecture](architecture-diagram.png.png)
 
 **Flow:**
 User → Voting App → Redis → Worker → PostgreSQL → Result App
