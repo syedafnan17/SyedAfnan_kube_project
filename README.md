@@ -7,7 +7,6 @@ This project demonstrates the deployment of a **microservices-based voting appli
 The application allows users to vote between two options. Votes are processed using multiple services, each built with a different technology stack, showcasing a polyglot microservices architecture.
 
 # 🏗️ Architecture
-
 ![Kubernetes Voting Application Architecture](architecture-diagram.png.png)
 
 **Flow:**
